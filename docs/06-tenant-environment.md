@@ -23,7 +23,7 @@ The baseline was captured before implementing the planned departmental security 
 | Resource | Observed Count |
 |---|---:|
 | Users | 3 |
-| Groups | 2 |
+| Groups | 0 |
 | Devices | 0 |
 | Applications | 0 |
 
